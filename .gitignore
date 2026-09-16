@@ -1,0 +1,42 @@
+# --- macOS ---
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# --- Editors / IDEs ---
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# --- Python ---
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.ipynb_checkpoints/
+.pytest_cache/
+
+# --- R ---
+.Rhistory
+.RData
+.Rproj.user/
+
+# --- Office lock files and temporary output ---
+~$*.docx
+~$*.xlsx
+~$*.pptx
+*.tmp
+
+# --- Data governance ---
+# Signed consent forms, identifiable transcripts, recordings and raw data containing
+# personal information must NOT be committed; signed forms live in UQRDM.
+# The scaffold placeholders are currently tracked, so these patterns are left disabled.
+# Enable them (and `git rm --cached` the placeholders) once real data starts arriving.
+#
+# data_raw/*
+# !data_raw/.gitkeep
+# *.m4a
+# *.mov
+# *.mp4
