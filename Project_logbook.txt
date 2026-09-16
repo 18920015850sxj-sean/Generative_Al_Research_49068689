@@ -1,0 +1,7 @@
+Project: Using Generative AI Tools - Boon or Bane
+
+The project investigates the use of generative AI tools in research.
+The team is responsible for organising and analysing research data.
+This logbook records the development and collaboration of the project.
+
+Logbook entry - 16 September 2026: The project group has been formed with one code reviewer and two code developers. The repository structure has been set up, and future changes will be made on separate branches and merged through pull requests.
